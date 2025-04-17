@@ -1,6 +1,9 @@
 # 💫 About Me:
-Software Developer 🇧🇷🇨🇦🇪🇺🏴󠁧󠁢󠁥󠁮󠁧󠁿🇺🇸 
+                                                                             Software Developer 🇧🇷🇨🇦🇪🇺🏴󠁧󠁢󠁥󠁮󠁧󠁿🇺🇸 
+<br>
 📍 my old account: https://github.com/ailtonnetodev 
+<br>
+<br>
 <br>
 🌍 Hello Devs, 🇧🇷 I'm a Software Developer, ✈️ I love to travel and get to know new places and cultures.⚡️ Passionate about Music and football.
 
