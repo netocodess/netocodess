@@ -1,16 +1,13 @@
-## Hi there 👋
+💫 About Me:
 
-<!--
-**netocodess/netocodess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 Hello Devs.
+🇧🇷 I'm a Software Developer.
+✈️ I love to travel and get to know new places and cultures.
+⚡️ Passionate about Music and football.
+🌐 Socials:
 
-Here are some ideas to get you started:
+Instagram LinkedIn
+💻 Tech Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+TypeScript Java JavaScript HTML5 CSS3 AWS GithubPages Spring JWT NodeJS Postgres MySQL Sequelize Hibernate Figma Git GitHub Docker Postman Swagger
+📊 GitHub Stats:
