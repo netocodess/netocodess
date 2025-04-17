@@ -1,5 +1,5 @@
-# 💫 About Me:
-                                                                             Software Developer 🇧🇷🇨🇦🇪🇺🏴󠁧󠁢󠁥󠁮󠁧󠁿🇺🇸 
+# Software Developer 🇧🇷🇨🇦🇪🇺🏴󠁧󠁢󠁥󠁮󠁧󠁿🇺🇸:
+                                                                              
 <br>
 📍 my old account: https://github.com/ailtonnetodev 
 <br>
