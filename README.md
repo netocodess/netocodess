@@ -1,12 +1,11 @@
-# Software Developer 🇧🇷🇨🇦🇪🇺🏴󠁧󠁢󠁥󠁮󠁧󠁿🇺🇸:
-                                                                              
+# Software Developer 🇧🇷🇨🇦🇪🇺🏴󠁧󠁢󠁥󠁮󠁧󠁿🇺🇸:                                                                            
 <br>
 📍 my old account: https://github.com/ailtonnetodev 
 <br>
 <br>
 <br>
-🌍 Hello Devs, 🇧🇷 I'm a Software Developer, ✈️ I love to travel and get to know new places and cultures.⚡️ Passionate about Music and football.
-
+ Hello Devs, I'm a Software Developer, I love to travel and get to know new places and cultures, Passionate about Music and football.
+🌍🇧🇷✈️⚡️
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ailton-neto-dev) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://github.com/ailtonnetodev ) 
